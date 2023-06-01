@@ -1,3 +1,5 @@
+<img width="609" alt="lab3 part2 output" src="https://github.com/CS5008-5009/lab3-junnnyiliu/assets/133163994/6f8f00dd-6816-4f24-b65f-6dca0dc29550">
+<img width="628" alt="lab3 part1 output" src="https://github.com/CS5008-5009/lab3-junnnyiliu/assets/133163994/fb4369d3-dbd8-4d1a-90de-7d320fa6b3d8">
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/Ad3CiblN)
 # Lab3
 Lab 3
